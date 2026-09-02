@@ -1,7 +1,7 @@
 # API-001 - Consultar usuários
 
 **Método:** GET  
-**Endpoint:** `https://api.jsonplaceholder.dev/users`
+**Endpoint:** `https://jsonplaceholder.typicode.com/users`
 
 ## Objetivo
 
@@ -17,12 +17,12 @@ Validar se a API retorna corretamente a lista de usuários cadastrados.
 
 ## Resultado obtido
 
-Aguardando execução no Postman.
+A API retornou com sucesso a lista de usuários em formato JSON, com status HTTP `200 OK`.
 
 ## Status
 
-⏳ Não executado
+✅ PASS
 
 ## Evidência
 
-Aguardando evidência da execução.
+Evidência da execução realizada no Postman.
