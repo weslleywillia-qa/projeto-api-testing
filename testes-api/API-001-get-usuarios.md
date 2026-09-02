@@ -26,3 +26,9 @@ A API retornou com sucesso a lista de usuários em formato JSON, com status HTTP
 ## Evidência
 
 Evidência da execução realizada no Postman.
+## Evidência
+
+Evidência da execução realizada no Postman.
+
+![Evidência API-001](../evidencias/API-001-get-usuarios-200-ok.png)
+
