@@ -41,3 +41,4 @@ O identificador `id: 1` foi mantido.
 ## Evidência
 
 Evidência da execução realizada no Postman.
+![Evidência API-003](../evidencias/API-003-put-atualizar-usuario-200-ok.png)
