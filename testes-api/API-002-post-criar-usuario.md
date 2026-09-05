@@ -35,7 +35,7 @@ Status HTTP retornado: `201 Created`.
 ✅ PASS
 
 ## Evidência
-
 Evidência da execução realizada no Postman.
+![Evidência API-002](../evidencias/API-002-post-criar-usuario-201-created.png)
 
 
