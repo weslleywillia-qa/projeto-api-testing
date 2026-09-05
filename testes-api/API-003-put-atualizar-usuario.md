@@ -28,12 +28,16 @@ Validar se a API permite atualizar os dados de um usuário existente por meio de
 
 ## Resultado obtido
 
-Aguardando execução no Postman.
+A API processou com sucesso a atualização do usuário e retornou os dados atualizados.
+
+Status HTTP retornado: `200 OK`.
+
+O identificador `id: 1` foi mantido.
 
 ## Status
 
-⏳ Não executado
+✅ PASS
 
 ## Evidência
 
-Aguardando evidência da execução.
+Evidência da execução realizada no Postman.
