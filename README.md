@@ -58,3 +58,24 @@ Este projeto busca desenvolver experiência prática em testes de APIs REST, int
 **Weslley Willian**
 
 QA Tester | Testes Manuais | API Testing | SQL | JavaScript | Automação de Testes
+## 📊 Resultado da execução
+
+| Caso de teste | Método | Status |
+|---|---|---|
+| API-001 - Consultar usuários | GET | ✅ PASS |
+| API-002 - Criar usuário | POST | ✅ PASS |
+| API-003 - Atualizar usuário | PUT | ✅ PASS |
+| API-004 - Excluir usuário | DELETE | ✅ PASS |
+
+**Total de testes executados:** 4  
+**Aprovados:** 4  
+**Reprovados:** 0  
+**Taxa de aprovação:** 100%
+
+## 📁 Acesso rápido
+
+- [API-001 - Consultar usuários](testes-api/API-001-get-usuarios.md)
+- [API-002 - Criar usuário](testes-api/API-002-post-criar-usuario.md)
+- [API-003 - Atualizar usuário](testes-api/API-003-put-atualizar-usuario.md)
+- [API-004 - Excluir usuário](testes-api/API-004-delete-excluir-usuario.md)
+- [Evidências das execuções](evidencias/)
