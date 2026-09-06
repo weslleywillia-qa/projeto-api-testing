@@ -29,3 +29,4 @@ A resposta foi retornada sem erro, com corpo vazio em formato JSON: `{}`.
 ## Evidência
 
 Evidência da execução realizada no Postman.
+![Evidência API-004](../evidencias/API-004-delete-excluir-usuario-200-ok.png)
